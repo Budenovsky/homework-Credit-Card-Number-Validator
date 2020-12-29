@@ -9,7 +9,8 @@
 В результате тестирования выявлены следующие дефекты:
 * [Отсутствует возможность валидации карт с номером длиной 19 цифр](https://github.com/Budenovsky/homework-Credit-Card-Number-Validator/issues/1#issue-775434748)
 * [Отсутствует возможность валидации платежных карт American Express](https://github.com/Budenovsky/homework-Credit-Card-Number-Validator/issues/2#issue-775439102)
-* [Отсутствует возможность валидации платежных карт Diners Club - Carte Blanche и Diners Club - International](https://github.com/Budenovsky/homework-Credit-Card-Number-Validator/issues/3#issue-775442801)
+* [Отсутствует возможность валидации платежных карт Diners Club - Carte Blanche](https://github.com/Budenovsky/homework-Credit-Card-Number-Validator/issues/3#issue-775442801)
+* [Отсутствует возможность валидации платежных карт Diners Club - International](https://github.com/Budenovsky/homework-Credit-Card-Number-Validator/issues/4#issue-775823764)
 
 ## Описание процесса тестирования
 
