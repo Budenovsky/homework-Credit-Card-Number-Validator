@@ -7,15 +7,14 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Budenovsky/homework-Credit-Card-Number-Validator/issues/1#issue-775434748
-* https://github.com/Budenovsky/homework-Credit-Card-Number-Validator/issues/2#issue-775439102
-* https://github.com/Budenovsky/homework-Credit-Card-Number-Validator/issues/3#issue-775442801
+* [Отсутствует возможность валидации карт с номером длиной 19 цифр](https://github.com/Budenovsky/homework-Credit-Card-Number-Validator/issues/1#issue-775434748)
+* [Отсутствует возможность валидации платежных карт American Express](https://github.com/Budenovsky/homework-Credit-Card-Number-Validator/issues/2#issue-775439102)
+* [Отсутствует возможность валидации платежных карт Diners Club - Carte Blanche и Diners Club - International](https://github.com/Budenovsky/homework-Credit-Card-Number-Validator/issues/3#issue-775442801)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* баг-репорт
-* отчет о тестировании
+* тест-кейс
 
 *Примечание\*: не указывайте артефакты "для галочки". Если вы сюда напишите **тест-план**, то мы попросим вас его показать (а если не покажете - то отправим работу на доработку). Пишите только то, что реально существует и требуется в задании.*
 
